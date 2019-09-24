@@ -1,0 +1,4 @@
+
+http://[2800:1e0:c01:c002::c]/
+
+netsh interface teredo set state server=teredo-debian.remlab.net
